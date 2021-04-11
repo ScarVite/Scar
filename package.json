@@ -1,6 +1,6 @@
 {
     "name": "scar",
-    "version": "0.0.5",
+    "version": "0.0.1",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -16,5 +16,8 @@
     "bugs": {
         "url": "https://github.com/ScarVite/Scar/issues"
     },
-    "homepage": "https://www.scarvite.de/Scar"
+    "homepage": "https://www.scarvite.de/Scar",
+    "dependencies": {
+        "file-system": "^2.2.2"
+    }
 }
