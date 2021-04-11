@@ -1,0 +1,20 @@
+{
+    "name": "scar",
+    "version": "0.0.5",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ScarVite/Scar.git"
+    },
+    "author": "ScarVite",
+    "license": "APACHE-2",
+    "bugs": {
+        "url": "https://github.com/ScarVite/Scar/issues"
+    },
+    "homepage": "https://www.scarvite.de/Scar"
+}
