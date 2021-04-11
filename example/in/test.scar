@@ -1,0 +1,6 @@
+test2 = include('./test2.scar')
+
+main() {
+    console("Hello World");
+    test2.lol();
+}

@@ -1,0 +1,5 @@
+lol() {
+    console("hi");
+}
+
+export(lol);
