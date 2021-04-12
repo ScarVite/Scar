@@ -1,5 +1,6 @@
 {
     "compilerVersion": "0.0.1",
     "inDir": "./in",
-    "outDir": "./out"
+    "outDir": "./out",
+    "keepFiles": true 
 }

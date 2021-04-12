@@ -1,6 +1,7 @@
 const fs = require('file-system');
 const package = require('./package.json');
-const { Parser } = require('./parser/index.js');
+const { Parser } = require('./parser/');
+const { Compiler } = require('./compiler/');
 
 var config = {
     "compilerVersion": package.version,
